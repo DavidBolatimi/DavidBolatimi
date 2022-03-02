@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DavidBolatimi
-- 👀 I’m interested in tall girls with pretty tits
+- 👀 I’m interested in tall girls with pretty eyes
 - 🌱 I’m currently learning python for advanced Data Science
 - 💞️ I’m looking to collaborate on as many projects to gain experience
 - 📫 Reach me via email
