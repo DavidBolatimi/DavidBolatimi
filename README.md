@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DavidBolatimi
-- 🌱 I’m a graduate student at UofL majoring in Business Analytics
-- 💞️ I’m looking to collaborate on as many projects to gain experience
-- 📫 Reach me via email david.bolatimi@louisville.edu
+- 🌱 I’m a graduate student at BGSU majoring in Business Analytics
+- 💞️ I’m looking to collaborate on as many projects to gain experience and amend large SQL database queries, develop SSRS reports, Tableau Reports/Views and Dashboards as well as automated emails to meet organizational requirements.
+- 📫 Reach me via email bodavid@bgsu.edu
 
 <!---
 DavidBolatimi/DavidBolatimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
